@@ -46,6 +46,8 @@
     background: #222;
     color: white;
     padding: 60px 20px;
+    height: 100vh;
+    justify-content: center;
 }
 
 .hero h2 {
